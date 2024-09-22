@@ -1,4 +1,4 @@
 # apnaproject-demo
 This is an trial repo
-This is my first Git respository
-Author - Ganta Gayatri
+<br>This is my first Git respository</br>
+<br>Author - Ganta Gayatri</br>
